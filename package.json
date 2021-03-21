@@ -5,8 +5,8 @@
   "homepage": "https://dbarochiya.github.io/me",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-scripts": "2.1.5",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
